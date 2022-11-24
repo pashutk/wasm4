@@ -3,7 +3,7 @@ export const DEBUG = import.meta.env.DEV;
 export const WIDTH = 160;
 export const HEIGHT = 160;
 
-export const STORAGE_SIZE = 1024;
+export const STORAGE_SIZE = 1024 * 1024;
 
 export const CRASH_TITLE = "WASM-4";
 
